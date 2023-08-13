@@ -15,6 +15,11 @@ github_pat_11A7UZWDY0PUIWwjw8ATXh_TahpUpGleegTm1wzrUTMW70oreiT6hc5tztKlR5t9rA4HS
 </head>
 <body>
 	<h1>githubを利用する 🐈</h1>
-	<p>データの上げ下げができるようにする 🐄</p>
+	<p>githubはどんなときに使えるか？</p>
+	<ol>
+		<li>リモートワーク</li>
+		<li>ローカルの作業</li>
+	</ol>
+	<p>とりあえず、将来に備えてひと通り使えるようにする 🐈</p>
 </body>
 </html>
