@@ -22,5 +22,6 @@ github_pat_11A7UZWDY0PUIWwjw8ATXh_TahpUpGleegTm1wzrUTMW70oreiT6hc5tztKlR5t9rA4HS
 	</ol>
 	<p>とりあえず、将来に備えてひと通り使えるようにする 🐈</p>
 	<p>github上で追加しました 🐓</p>
+	<p>remo:sub2: ブランチを新しく作って文章を追加 🐏</p>
 </body>
 </html>
